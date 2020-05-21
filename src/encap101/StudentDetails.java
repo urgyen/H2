@@ -15,9 +15,9 @@ public class StudentDetails {
 
 	public void setName(String name) {
 		this.name = name;
-	}
+	}	
 
-//age
+	//age
 	public int getAge() {
 		return age;
 	}
@@ -49,6 +49,7 @@ public class StudentDetails {
 			
 		}
 		else {
+			
 			this.feesPayable = feesPayable;
 
 		}

@@ -15,6 +15,9 @@ public class Encap101 {
 		s1.setName("Apple");
 		s1.setAge(30);
 		
+		
+		//s1.age=1500;
+		
 		//Logic fees >5000 ; Principal bhetneeyy
 		s1.setFeesPayable(4000);
 		 
@@ -23,11 +26,7 @@ public class Encap101 {
 		System.out.println(s1.getName());
 		System.out.println(s1.getAge());
 		System.out.println(s1.getFeesPayable());
-		
-		
-		
-		
-		
+			
 		//System.out.println(s1.name);
 		
 		
